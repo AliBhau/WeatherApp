@@ -96,4 +96,7 @@ h1.temp {
     margin: 2em;
     color: white;
   }
+    body {
+    background-image: url("https://source.unsplash.com/1600x900/?city");
+  }
 }
